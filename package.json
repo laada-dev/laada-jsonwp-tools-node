@@ -1,7 +1,7 @@
 {
   "name": "laada-wp-tools",
   "version": "0.5.0",
-  "description": "A toolset for building assets for Laada's WordPress",
+  "description": "A set of node tools used in and around the Laada's WordPress setup",
   "author": "Laada",
   "bin": {
     "laada-schema": "bin/schema/build.js",
