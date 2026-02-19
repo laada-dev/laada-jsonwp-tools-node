@@ -1,0 +1,30 @@
+{
+  "name": "laada-wp-tools",
+  "version": "0.5.0",
+  "description": "A toolset for building assets for Laada's WordPress",
+  "author": "Laada",
+  "bin": {
+    "laada-schema": "bin/schema/build.js",
+    "laada-types": "bin/types/build.mjs"
+  },
+  "devDependencies": {
+    "@openapi-contrib/openapi-schema-to-json-schema": "4.0.0",
+    "@types/jquery": "3.5.33",
+    "@types/tinymce": "5.5.0",
+    "adm-zip": "0.5.16",
+    "chokidar": "5.0.0",
+    "dotenv": "17.3.1",
+    "json-schema-to-typescript": "15.0.4",
+    "markdown-it": "14.1.1",
+    "node-html-parser": "7.0.2",
+    "node-svg-fill": "1.0.2",
+    "semver-compare": "1.0.0",
+    "sharp": "0.34.5",
+    "sharp-ico": "0.1.5",
+    "ws": "8.19.0"
+  },
+  "dependencies": {
+    "node-addon-api": "8.5.0",
+    "node-gyp": "12.2.0"
+  }
+}
