@@ -1,6 +1,5 @@
 {
   "name": "laada-jsonwp-tools-node",
-  "version": "0.5.1",
   "description": "A set of node tools used in and around the Laada's WordPress setup",
   "author": "Laada",
   "bin": {
