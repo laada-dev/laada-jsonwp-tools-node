@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@openapi-contrib/openapi-schema-to-json-schema": "4.0.0",
+    "@tailwindcss/postcss": "4.3.3",
     "@types/jquery": "4.0.1",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
@@ -16,15 +17,24 @@
     "adm-zip": "0.6.1",
     "chokidar": "5.0.0",
     "dotenv": "17.4.2",
+    "clsx": "2.1.1",
     "json-schema-to-typescript": "16.0.0",
     "markdown-it": "15.0.2",
     "node-addon-api": "8.9.2",
     "node-gyp": "13.0.2",
     "node-html-parser": "9.0.4",
     "node-svg-fill": "1.0.2",
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
+    "react-error-boundary": "6.1.1",
     "semver-compare": "1.0.0",
     "sharp": "0.35.4",
     "sharp-ico": "0.1.5",
+    "short-time-ago": "3.0.0",
+    "swr": "2.4.1",
+    "tailwindcss": "4.3.3",
+    "toastify-js": "1.12.0",
+    "typescript": "6.0.3",
     "ws": "8.21.3"
   }
 }
