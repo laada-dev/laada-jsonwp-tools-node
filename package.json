@@ -8,20 +8,20 @@
   },
   "dependencies": {
     "@openapi-contrib/openapi-schema-to-json-schema": "4.0.0",
-    "@types/jquery": "4.0.0",
+    "@types/jquery": "4.0.1",
     "@types/tinymce": "5.5.0",
-    "adm-zip": "0.5.17",
+    "adm-zip": "0.6.1",
     "chokidar": "5.0.0",
     "dotenv": "17.4.2",
-    "json-schema-to-typescript": "15.0.4",
-    "markdown-it": "14.1.1",
-    "node-addon-api": "8.7.0",
-    "node-gyp": "12.3.0",
-    "node-html-parser": "7.1.0",
+    "json-schema-to-typescript": "16.0.0",
+    "markdown-it": "15.0.2",
+    "node-addon-api": "8.9.2",
+    "node-gyp": "13.0.2",
+    "node-html-parser": "9.0.4",
     "node-svg-fill": "1.0.2",
     "semver-compare": "1.0.0",
-    "sharp": "0.34.5",
+    "sharp": "0.35.4",
     "sharp-ico": "0.1.5",
-    "ws": "8.20.0"
+    "ws": "8.21.3"
   }
 }
